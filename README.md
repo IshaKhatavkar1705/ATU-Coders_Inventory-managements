@@ -31,4 +31,4 @@ Access the System: Open the login.php file in a web browser.
 Login Credentials: Use the temporary username guest and password 1234 to log in (Note: These credentials are for demonstration purposes only. Please implement a secure authentication system in production environments).
 ## Disclaimer
 
-The provided username and password are for demonstration only. Please implement robust authentication measures for production environments.
+  The provided username and password are for demonstration only. Please implement robust authentication measures for production environments. itemStockEmail.php and itemExpireEmail.php doesnt have the UI as it is running on scheduler. For this you need to task schedular install the Task Scheduler.
