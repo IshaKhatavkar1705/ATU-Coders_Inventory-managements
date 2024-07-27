@@ -29,11 +29,6 @@ Internet Connection: Stable internet connection
 
 Access the System: Open the login.php file in a web browser.
 Login Credentials: Use the temporary username guest and password 1234 to log in (Note: These credentials are for demonstration purposes only. Please implement a secure authentication system in production environments).
-## Next Steps (Optional):
-
-Deployment Instructions (if applicable): Provide detailed instructions on how to deploy the system to a production environment (server configuration, database setup, etc.).
-Security Enhancements: Outline plans for incorporating secure login mechanisms, user authentication, and access control.
-Documentation: Consider including references to additional documentation that explains the system's architecture, database schema, functionalities, and future development plans.
 ## Disclaimer
 
 The provided username and password are for demonstration only. Please implement robust authentication measures for production environments.
